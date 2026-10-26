@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Job Portal with Intelligent Resume Builder",
+  "description": "Comprehensive job portal featuring AI/ML-based job-fit prediction, TF-IDF skill-gap analysis, personalized recommendations, and an intelligent ATS-friendly resume builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
